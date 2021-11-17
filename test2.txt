@@ -2,4 +2,4 @@ test file2
 new line added
 one more
 now there are 5 lines
-end of file
+end of file!
