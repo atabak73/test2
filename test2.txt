@@ -1,4 +1,5 @@
 test file2
 new line added
-now there are 4 lines
+one more
+now there are 5 lines
 end of file
