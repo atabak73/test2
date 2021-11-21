@@ -1,6 +1,2 @@
-The only file!
-With two lines
-and also with the third line
-!!!!! merged/conflict solved
-and forth line! merged/conflict solved
+Lets start from the begining!
 
